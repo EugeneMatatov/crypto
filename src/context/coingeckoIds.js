@@ -1,0 +1,2 @@
+const coinData=["crypto-com-chain", "the-open-network", "cardano", "bitcoin", "algorand", "iota", "ecash", "radio-caca", "cardano", "mint-club", "siacoin", "hedera-hashgraph", "bittorrent-2", "vechain", "nftb", "ariva", "amp-token", "holotoken", "wall-street-games", "floki-inu", "zoo-crypto-world", ]
+export default coinData
